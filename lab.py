@@ -1,12 +1,14 @@
 """
+Sophie Wang
+
 Symbolic Algebra
 """
 
-# import doctest # optional import
-# import typing # optional import
-# import pprint # optional import
-# import string # optional import
-# import abc # optional import
+# import doctest
+# import typing
+# import pprint
+# import string
+# import abc
 
 
 class Expr:
